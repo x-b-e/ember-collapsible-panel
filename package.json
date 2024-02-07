@@ -96,7 +96,7 @@
   },
   "peerDependencies": {
     "ember-source": "^3.20 || ^4.0.0",
-    "liquid-fire": ">= 0.32.0"
+    "liquid-fire": ">= 0.36.1"
   },
   "peerDependenciesMeta": {
     "liquid-fire": {
